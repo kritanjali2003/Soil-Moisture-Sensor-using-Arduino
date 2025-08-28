@@ -5,16 +5,6 @@ This project measures soil moisture levels and displays them on an LCD. If the s
 
 ---
 
-## 📷 Project Overview
-
-### Circuit Diagram
-![Circuit Diagram](./IMG-20250828-WA0003.jpg)
-
-### Fritzing Connections
-![Connections](./Screenshot%202025-08-28%20220455.png)
-
----
-
 ## 🛠 Components Used
 - Arduino UNO  
 - Soil Moisture Sensor V2.0  
